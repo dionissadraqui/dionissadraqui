@@ -10,14 +10,14 @@
 
   - 🌱 Atualmente estudo TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar com  TI.
+  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar com  TI. 🔍 Buscando estágio para aplicar conhecimentos...
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras
+  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras, 🎓 Último semestre de Gestão de TI |
   - 📚 Experiência em: Logística, Operações Táticas e Gestão de Equipes
   - 🏅 Condecorações e cursos militares especializados
   - 💡 Habilidades desenvolvidas:
