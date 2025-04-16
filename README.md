@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também sou criador de conteúdo no YouTube desde 2016, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, marketing, capacidade analítica e gestão de comunidades e redes sociais. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras
+  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras
   - 📚 Experiência em: Logística, Operações Táticas e Gestão de Equipes
   - 🏅 Condecorações e cursos militares especializados
   - 💡 Habilidades desenvolvidas:
