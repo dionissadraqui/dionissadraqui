@@ -59,9 +59,7 @@
 
 <!-- Portfólio -->
 ## Portfólio:
-- [Visualização de Dados com Seaborn]()
-- [Análise Exploratória de Dados]()
-- [Dashboard Interativo de Dados]()
+
 - [Consultas e Análise de Dados]()
 - [Sistema de Cadastro de Clientes]()
 
