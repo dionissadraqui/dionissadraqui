@@ -24,7 +24,10 @@
     - Disciplina e trabalho sob pressão
     - Liderança e trabalho em equipe
     - Resolução estratégica de problemas
-    - Gestão de crises e tomada de decisão 
+    - Gestão de crises e tomada de decisão
+    - <div align="center">
+  <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="250px" alt="Digital Transformation">
+</div>
 
   - ⚡ Gosto de ler, seja um bom livro, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
 </details>
@@ -51,6 +54,7 @@
   
   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=variablebee&layout=compact&theme=gotham&title_color=58A6FF&text_color=C9D1D9&hide_border=true&locale=pt-br)
 </div>
+
 
 
 <!-- Portfólio -->
