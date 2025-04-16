@@ -61,7 +61,7 @@
 ## Portfólio:
 
 - [Consultas e Análise de Dados]()
-- [Sistema de Cadastro de Clientes](https://github.com/dionissadraqui/Sistema-de-Cadastro-de-Clientes-)
+- [Este sistema foi especialmente projetado para gestão de uma oficina de câmbio automático, com todos os campos necessários para registro completo de clientes, veículos e serviços realizados.](https://github.com/dionissadraqui/Sistema-de-Cadastro-de-Clientes-)
 
 <!-- GIF -->
 <p align="left">
