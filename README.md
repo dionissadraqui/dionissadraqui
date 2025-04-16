@@ -63,10 +63,9 @@
 - [Consultas e Análise de Dados]()
 - [Este sistema foi especialmente projetado para gestão de uma oficina de câmbio automático, com todos os campos necessários para registro completo de clientes, veículos e serviços realizados.](https://github.com/dionissadraqui/Sistema-de-Cadastro-de-Clientes-)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+![123](https://github.com/user-attachments/assets/c8987775-0d8b-44a2-b62f-eed5e50016c8)
+
+
 
 ## 🔥 Habilidades
 <!-- Habilidades: Linguagens de Programação -->
