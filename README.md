@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras, 🎓 Último semestre de Gestão de TI |
+  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python e Análise de Dados. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras, 🎓 Último semestre de Gestão de TI |
   - 📚 Experiência em: Logística, Operações Táticas e Gestão de Equipes
   - 🏅 Condecorações e cursos militares especializados
   - 💡 Habilidades desenvolvidas:
