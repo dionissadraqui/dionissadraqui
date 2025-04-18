@@ -1,6 +1,5 @@
 [![Site Oficial](https://img.shields.io/badge/Site_Oficial-FF6C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anhanguera.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF6C00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/anhanguera)
-[![Instagram](https://img.shields.io/badge/Instagram-FF6C00?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anhanguera)
 
 <!--título-->
 <div id="user-content-toc">
