@@ -8,7 +8,7 @@
 <p>
   Oi 👋, eu sou o Dionís Sadraqui! Um estudante apaixonado por Tecnologia da Informação do Brasil.
 
-  - 🌱 Atualmente estudo TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estudo TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO <img align="center" alt="Anhanguera" src="https://img.shields.io/badge/Anhanguera-193A3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTI1NiA1MTJjLTE0MS40IDAtMjU2LTExNC42LTI1Ni0yNTZTMTE0LjYgMCAyNTYgMHMxMTQuNiAxMTQuNiAxMTQuNiAyNTZTMzk3LjQgNTEyIDI1NiA1MTJ6bTAtNDQ4Yy0xMDUuOSAwLTE5MiA4Ni4xLTE5MiAxOTJzODYuMSAxOTIgMTkyIDE5MiAxOTItODYuMSAxOTItMTkyUzM2MS45IDY0IDI1NiA2NHptMCAzMjBjLTcwLjcgMC0xMjgtNTcuMy0xMjgtMTI4czU3LjMtMTI4IDEyOC0xMjggMTI4IDU3LjMgMTI4IDEyOC01Ny4zIDEyOC0xMjggMTI4eiIvPjwvc3ZnPg==&logoColor=white" /> <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar com  TI. 🔍 Buscando estágio para aplicar conhecimentos...
 </p>
