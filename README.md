@@ -1,6 +1,3 @@
-[![Anhanguera Educacional](https://img.shields.io/badge/Anhanguera_Educacional-FF6C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anhanguera.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/anhanguera)
-
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
