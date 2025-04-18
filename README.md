@@ -1,5 +1,5 @@
-[![Site Oficial](https://img.shields.io/badge/Site_Oficial-FF6C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anhanguera.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF6C00?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/anhanguera)
+[![Anhanguera Educacional](https://img.shields.io/badge/Anhanguera_Educacional-FF6C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anhanguera.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/anhanguera)
 
 <!--título-->
 <div id="user-content-toc">
@@ -11,7 +11,7 @@
 <p>
   Oi 👋, eu sou o Dionís Sadraqui! Um estudante apaixonado por Tecnologia da Informação do Brasil.
 
-  - 🌱 Atualmente estudo TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO <img align="center" alt="Anhanguera" src="https://img.shields.io/badge/Faculdade_Anhanguera-FF6C00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iI0ZGNkMwMCIvPjxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMTI4IiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0yNTYgMTI4Yy0zMC4zIDAtNTguOSA2LjItODUuNyAxNy4xQzE5My4zIDE3Ni41IDIyMyAxOTIgMjU2IDE5MnM2Mi43LTE1LjUgODUuNy00Ni45Yy0yNi44LTEwLjktNTUuNC0xNy4xLTg1LjctMTcuMXoiIGZpbGw9IiNGRjZDQzAiLz48cGF0aCBkPSJNMjU2IDM4NGMtMzAuMyAwLTU4LjktNi4yLTg1LjctMTcuMUMxOTMuMyAzNTUuNSAyMjMgMzQwIDI1NiAzNDBzNjIuNyAxNS41IDg1LjcgNDYuOWMtMjYuOCAxMC45LTU1LjQgMTcuMS04NS43IDE3LjF6IiBmaWxsPSIjRkY2QzAwIi8+PHBhdGggZD0iTTEyOCAyNTZjMC0zMC4zIDYuMi01OC45IDE3LjEtODUuN0MxNzYuNSAxOTMuMyAxOTIgMjIzIDE5MiAyNTZzLTE1LjUgNjIuNy00Ni45IDg1LjdjMTAuOS0yNi44IDE3LjEtNTUuNCAxNy4xLTg1Ljd6IiBmaWxsPSIjRkY2QzAwIi8+PHBhdGggZD0iTTM4NCAyNTZjMCAzMC4zLTYuMiA1OC45LTE3LjEgODUuN0MzMzUuNSAzMTguNyAzMjAgMjg5IDMyMCAyNTZzMTUuNS02Mi43IDQ2LjktODUuN2MtMTAuOSAyNi44LTE3LjEgNTUuNC0xNy4xIDg1Ljd6IiBmaWxsPSIjRkY2QzAwIi8+PC9zdmc+&logoColor=white" />  <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estudo TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO  [![Anhanguera Educacional](https://img.shields.io/badge/Anhanguera_Educacional-FF6C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anhanguera.com) <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar com  TI. 🔍 Buscando estágio para aplicar conhecimentos...
 </p>
