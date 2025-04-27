@@ -38,7 +38,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dionissadraqui_oficial/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionis-sadraqui-844606146/)
 [![outlook](https://img.shields.io/badge/outlook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://outlook.live.com/mail/0/)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://cerulean-melomakarona-6ed047.netlify.app/)
+[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://loquacious-cheesecake-bf85c0.netlify.app/)
 
 
 
