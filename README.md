@@ -35,7 +35,7 @@
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@canaldomilitar.5390/community)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dionissadraqui_oficial/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionis-sadraqui-844606146/)
 [![outlook](https://img.shields.io/badge/outlook-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://outlook.live.com/mail/0/)
 [![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://dionissadraqui.github.io/-Tecnologia-arte-e-poder-/)
