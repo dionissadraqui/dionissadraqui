@@ -68,10 +68,6 @@
 ![1234](https://github.com/user-attachments/assets/2e17a5b7-a04e-4787-b54a-a99743fea475)
 
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ## 🔥 Habilidades
 <!-- Habilidades: Linguagens de Programação -->
