@@ -10,14 +10,14 @@
 
   - 🌱 Atualmente estudo TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO  [![Anhanguera Educacional](https://img.shields.io/badge/Anhanguera_Educacional-FF6C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anhanguera.com) <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar com  TI. 🔍 Buscando estágio para aplicar conhecimentos...
+  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar com  TI. 🔍 Buscando aplicar conhecimentos...
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python e Análise de Dados. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras, 🎓 Último semestre de Gestão de TI |
+  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python e Análise de Dados. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras, 🎓 Formação academica > Gestão de TI |
   - 📚 Experiência em: Logística, Operações Táticas e Gestão de Equipes
   - 🏅 Condecorações e cursos militares especializados
   - 💡 Habilidades desenvolvidas:
