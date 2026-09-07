@@ -44,7 +44,7 @@ Sou o <b>Dionis Sadraqui</b>, Analista de TI com foco em Gestão da Tecnologia d
   <a href="https://www.linkedin.com/in/dionis-sadraqui-844606146/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dionissadraqui@outlook.com"><img src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www-tecnologia-arte-e-poder.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://www.youtube.com/@canaldoprogramador.5390/community"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.https://www.youtube.com/channel/UCQV5Zs-ozRFLH14zVN3gtBg><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 <!-- Divisor visual -->
