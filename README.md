@@ -1,100 +1,109 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá Mundo</h1></summary>
+    <summary><h1 style="display: inline-block">Olá Mundo 👋</h1></summary>
+  </ul>
 </div>
 
 <!-- Apresentação -->
+<p align="center">
+Sou o <b>Dionis Sadraqui</b>, Analista de TI com foco em Gestão da Tecnologia da Informação, Automação & Dados.
+</p>
+
 <p>
-  Oi 👋, eu sou o Dionís Sadraqui! Um estudante apaixonado por Tecnologia da Informação do Brasil.
+  Oi 👋, eu sou o Dionis Sadraqui! Profissional de TI e Gestão Administrativa com 15 anos de experiência em ambientes de alta exigência, atuando com automação de processos, análise de dados com Python e Inteligência Artificial aplicada ao ambiente corporativo.
 
-  - 🌱 Atualmente estudo TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO  [![Anhanguera Educacional](https://img.shields.io/badge/Anhanguera_Educacional-FF6C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.anhanguera.com) <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
-  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é trabalhar com  TI. 🔍 Buscando aplicar conhecimentos...
+  - 🎓 Tecnólogo em Gestão da Tecnologia da Informação — Universidade Pitágoras Unopar Anhanguera (conclusão Dez/2025, colação Jan/2026)
+  - 💼 Atualmente Assistente Administrativo na **Luft Logistics (Luft Agro)**, atuando com rastreamento veicular (Autotrac), onboarding tecnológico e treinamento corporativo de IA e Python
+  - 🥇 Destaque no Top 10 do Programa InovAdores 2.0 – Luft Logistics (2025)
+  - 🔭 Buscando minha próxima oportunidade em TI, unindo Python, Análise de Dados e Inteligência Artificial
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 34 anos, moro atualmente no Brasil. Tenho inglês básico ainda pouca experiência com SQL, Python e Análise de Dados. - 🔫 10+ anos servindo nas Forças Armadas Brasileiras, 🎓 Formação academica > Gestão de TI |
-  - 📚 Experiência em: Logística, Operações Táticas e Gestão de Equipes
-  - 🏅 Condecorações e cursos militares especializados
+  - 🪖 10+ anos como Militar Temporário no Exército Brasileiro (Adm. & Operações), com gestão documental, auditoria e conformidade regulatória
+  - 📚 Experiência em: Logística, Operações Táticas, Gestão de Equipes, Conformidade & RH
   - 💡 Habilidades desenvolvidas:
     - Disciplina e trabalho sob pressão
-    - Liderança e trabalho em equipe
-    - Resolução estratégica de problemas
-    - Gestão de crises e tomada de decisão
-    - <div align="center">
-  <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="250px" alt="Digital Transformation">
-</div>
+    - Liderança e treinamento de equipes
+    - Comunicação assertiva e negociação
+    - Gestão de metas e indicadores (KPI)
+    - Autocoaching
+  - ♿ PCD – Deficiência Física (Monoparesia em Membro Superior)
+  - ⚡ Gosto de ler, assistir filmes e jogar — acredito que interesses pessoais ajudam a ter uma visão mais ampla na resolução de problemas. \o/
 
-  - ⚡ Gosto de ler, seja um bom livro, assim como assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
+  <div align="center">
+    <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="250px" alt="Digital Transformation">
+  </div>
 </details>
 
-
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@canaldomilitar.5390/community)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionis-sadraqui-844606146/)
-[![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www-tecnologia-arte-e-poder.vercel.app/)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/dionis-sadraqui-844606146/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dionissadraqui@outlook.com"><img src="https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www-tecnologia-arte-e-poder.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.youtube.com/@canaldomilitar.5390/community"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
 <!-- Divisor visual -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- Seção de Stats -->
-<div align="center">
-
-  
-  
-  ![Estatísticas Dionis Sadraqui](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&locale=pt-br&custom_title=Progresso%20do%20Dionis)
-  
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=variablebee&layout=compact&theme=gotham&title_color=58A6FF&text_color=C9D1D9&hide_border=true&locale=pt-br)
-</div>
-
 
 
 <!-- Portfólio -->
-## Portfólio:
+## 💼 Portfólio
 
 - [Protótipo do Meu Portfólio](https://www-tecnologia-arte-e-poder.vercel.app/)
-- [Este sistema foi especialmente projetado para gestão de uma oficina de câmbio automático, com todos os campos necessários para registro completo de clientes, veículos e serviços realizados.](https://github.com/dionissadraqui/Sistema-de-Cadastro-de-Clientes-)
+- [Sistema de Cadastro para Oficina de Câmbio Automático](https://github.com/dionissadraqui/Sistema-de-Cadastro-de-Clientes-) — sistema com todos os campos necessários para registro completo de clientes, veículos e serviços realizados.
 
-![123](https://github.com/user-attachments/assets/66bdc75c-fe1f-4f84-a475-583ac25cb8f4)
-
-![1234](https://github.com/user-attachments/assets/2e17a5b7-a04e-4787-b54a-a99743fea475)
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/66bdc75c-fe1f-4f84-a475-583ac25cb8f4" width="45%">
+<div align="center">  
+  <img src="https://github.com/user-attachments/assets/2e17a5b7-a04e-4787-b54a-a99743fea475" width="45%">
+</div>
 
 ## 🔥 Habilidades
-<!-- Habilidades: Linguagens de Programação -->
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens de Programação</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  </div>
+
+<h3>Linguagens de Programação</h3>
+<p>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</p>
+
+<h3>Ferramentas & Frameworks</h3>
+<p>
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+</p>
+
+<h3>Bibliotecas</h3>
+<p>
+  <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   
-  <!-- Habilidades: Ferramentas & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    
+  <img align="center" alt="Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
   
-  <!-- Habilidades: Bibliotecas -->
-  <div style="flex-basis: 48%;">
-    <h3>Bibliotecas</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+  <img align="center" alt="Seaborn" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+  
+  <img align="center" alt="Streamlit" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg">
+</p>
 
+## 📜 Certificações
 
-![wallpaperflare com_wallpaper](https://github.com/user-attachments/assets/07022e3a-7843-423f-ac6e-0cf02b5c6b86)
+**Tecnologia**
+- IA para Todos: Introdução Prática – Luft Logistics 
+- Python Iniciante (30h) – Luft Logistics 
+- Análise de Dados com Python (40h) – Anhanguera 
+- Estruturas de Dados em Python (10h) – Anhanguera 
+- Programação – Associação Projov / Programa Rotário 
 
+**Gestão & Liderança**
+- Liderança e Desenvolvimento de Equipes 
+- Comunicação Assertiva e Negociação 
+- Gestão de Metas e Indicadores de Performance – KPI 
+- Autocoaching (20h) · Bioética e Biossegurança 
 
+<img src="https://github.com/user-attachments/assets/07022e3a-7843-423f-ac6e-0cf02b5c6b86" width="100%">
