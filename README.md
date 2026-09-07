@@ -56,7 +56,7 @@ Sou o <b>Dionis Sadraqui</b>, Analista de TI com foco em Gestão da Tecnologia d
 ## 💼 Portfólio
 
 - [Protótipo do Meu Portfólio](https://www-tecnologia-arte-e-poder.vercel.app/)
-- [Sistema de Cadastro para Oficina de Câmbio Automático](https://github.com/dionissadraqui/Sistema-de-Cadastro-de-Clientes-) — sistema com todos os campos necessários para registro completo de clientes, veículos e serviços realizados.
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/66bdc75c-fe1f-4f84-a475-583ac25cb8f4" width="45%">
